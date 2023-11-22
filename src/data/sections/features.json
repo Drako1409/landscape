@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Blockchain",
+        "content": "low fe every transaction."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Super Apps",
+        "content": "City Quest is a super app which contains the core of the Beone-Chain ecosystem."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Salmonation",
+        "content": "Salmonation is a community forum that has a large base in Indonesia."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Transaction",
+        "content": "Trnasaction in our Beone-Chain can be executed up to 30,000 TPS in one block."
+    }
+]
